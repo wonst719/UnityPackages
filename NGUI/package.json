@@ -1,0 +1,8 @@
+{
+  "name": "com.star.tasharen.ngui",
+  "version": "2018.3.0",
+  "displayName": "NGUI",
+  "description": "NGUI",
+  "unity": "2018.1",
+  "dependencies": {}
+}

@@ -1,0 +1,16 @@
+{
+    "name": "com.star.tasharen.ngui.editor",
+    "references": [
+        "GUID:4df7adb724ef62f438922c190d721698"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}

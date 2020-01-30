@@ -1,0 +1,8 @@
+{
+  "name": "com.star.tasharen.ngui.examples",
+  "version": "2018.3.0",
+  "displayName": "NGUI Examples",
+  "description": "NGUI Examples",
+  "unity": "2018.1",
+  "dependencies": { "com.star.tasharen.ngui": "2018.3.0" }
+}

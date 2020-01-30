@@ -1,0 +1,15 @@
+{
+    "name": "com.star.tasharen.ngui.examples",
+    "references": [
+        "GUID:4df7adb724ef62f438922c190d721698",
+        "GUID:e3b6debf81aec184b9edb441f84dd808"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
