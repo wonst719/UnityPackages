@@ -1,0 +1,14 @@
+{
+    "name": "MasterMemory",
+    "references": [
+        "GUID:a4200790b7c3587b49099ed58b7a86bf"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}

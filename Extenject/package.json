@@ -1,0 +1,8 @@
+{
+  "name": "com.star.svermeulen.extenject",
+  "version": "9.1.0",
+  "displayName": "Extenject",
+  "description": "Extenject",
+  "unity": "2018.1",
+  "dependencies": {}
+}

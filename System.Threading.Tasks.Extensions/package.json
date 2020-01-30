@@ -1,0 +1,8 @@
+{
+  "name": "com.star.dotnet.system.threading.tasks.extensions",
+  "version": "4.5.3",
+  "displayName": "System.Threading.Tasks.Extensions",
+  "description": "System.Threading.Tasks.Extensions",
+  "unity": "2018.3",
+  "dependencies": { "com.star.dotnet.system.runtime.compilerservices.unsafe": "4.7.0" }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "com.star.dotnet.system.runtime.compilerservices.unsafe",
+  "version": "4.7.0",
+  "displayName": "System.Runtime.CompilerServices.Unsafe",
+  "description": "System.Runtime.CompilerServices.Unsafe",
+  "unity": "2018.3"
+}

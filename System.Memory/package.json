@@ -1,0 +1,8 @@
+{
+  "name": "com.star.dotnet.system.memory",
+  "version": "4.5.3",
+  "displayName": "System.Memory",
+  "description": "System.Memory",
+  "unity": "2018.3",
+  "dependencies": { "com.star.dotnet.system.buffers": "4.5.0", "com.star.dotnet.system.runtime.compilerservices.unsafe": "4.7.0" }
+}

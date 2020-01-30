@@ -1,0 +1,10 @@
+{
+  "name": "com.star.cysharp.mastermemory",
+  "version": "2.0.4",
+  "displayName": "MasterMemory",
+  "description": "MasterMemory",
+  "unity": "2018.3",
+  "dependencies": {
+    "com.star.neuecc.messagepack": "2.0.335"
+  }
+}

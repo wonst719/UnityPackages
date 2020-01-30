@@ -1,0 +1,8 @@
+{
+  "name": "com.star.k4os.compression.lz4",
+  "version": "1.1.11",
+  "displayName": "K4os.Compression.LZ4",
+  "description": "K4os.Compression.LZ4",
+  "unity": "2018.3",
+  "dependencies": { "com.star.dotnet.system.memory": "4.5.3" }
+}

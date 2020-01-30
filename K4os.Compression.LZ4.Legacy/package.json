@@ -1,0 +1,8 @@
+{
+  "name": "com.star.k4os.compression.lz4.legacy",
+  "version": "1.1.11",
+  "displayName": "K4os.Compression.LZ4.Legacy",
+  "description": "K4os.Compression.LZ4.Legacy",
+  "unity": "2018.3",
+  "dependencies": { "com.star.k4os.compression.lz4": "1.1.11" }
+}
