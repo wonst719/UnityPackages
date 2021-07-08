@@ -1,8 +1,11 @@
 {
+  "displayName": "NGUI.Examples",
   "name": "com.star.tasharen.ngui.examples",
-  "version": "2018.3.0",
-  "displayName": "NGUI Examples",
+  "version": "2019.3.0",
+  "unity": "2018.4",
   "description": "NGUI Examples",
-  "unity": "2018.1",
-  "dependencies": { "com.star.tasharen.ngui": "2018.3.0" }
+  "dependencies": {
+    "com.star.tasharen.ngui": "2019.3.0",
+    "com.unity.modules.unitywebrequesttexture": "1.0.0"
+  }
 }
